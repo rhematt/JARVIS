@@ -1,5 +1,6 @@
-# Template Folder Structure
+Shortcut for ChatGPT based implementations within Siri. 
+
+Activate by asking Siri to "Start Jarvis"
 
 Folder structures based on https://github.com/kriasoft/Folder-Structure-Conventions
 
-This repo is designed to be used to quickly populate new repos with standard folders
